@@ -281,6 +281,7 @@ main {
 
 .sponsor_company img {
     filter: grayscale(100%);
+    margin-bottom: 50px;
 }
 
 /* responsive media query */
